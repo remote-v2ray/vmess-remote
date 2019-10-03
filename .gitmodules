@@ -1,0 +1,4 @@
+[submodule "modules/v2ray"]
+	path = modules/v2ray
+	url = https://github.com/remote-v2ray/v2ray-core
+	branch = features/remote
